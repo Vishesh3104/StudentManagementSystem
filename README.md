@@ -3,10 +3,11 @@ Mini Project: Student Management System
 
 A console-based Student Management System developed using Core Java and Object-Oriented Programming concepts.
 
-StudentManagementSystem (GitHub repository)
-│
+## Project Structure
+
+```text
+StudentManagementSystem/
 ├── README.md
-│
 └── StudentManagementSystem/
     └── src/
         ├── Main.java
@@ -15,6 +16,7 @@ StudentManagementSystem (GitHub repository)
         ├── Marks.java
         ├── StudentManager.java
         └── StudentOperations.java
+```
 
 Technologies Used
 Java (JDK 26)
